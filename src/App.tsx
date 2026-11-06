@@ -480,6 +480,22 @@ export default function App() {
                 </li>
               </ul>
             </section>
+
+            <a
+              className="sidebar-qr"
+              href="https://tinyurl.com/madisonyang-cv"
+              aria-label="Open the online version of this CV"
+            >
+              <img
+                src={`${import.meta.env.BASE_URL}madisonyang-cv-qr.svg`}
+                alt="QR code linking to the online CV"
+              />
+              <span>
+                Scan for online CV
+                <br />
+                tinyurl.com/madisonyang-cv
+              </span>
+            </a>
           </aside>
 
           <div className="main-content">

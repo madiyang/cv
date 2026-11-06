@@ -162,6 +162,27 @@
   border-right: 1px solid #e3e7e9;
 }
 
+.sidebar-qr {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: #234565;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  line-height: 1.7;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.sidebar-qr img {
+  width: 84px;
+  height: 84px;
+  padding: 4px;
+  background: #fff;
+  border: 1px solid #e3e7e9;
+}
+
 .main-content {
   display: grid;
   align-content: start;
