@@ -2,6 +2,10 @@
 
 **Live site: https://madiyang.github.io/cv/**
 
+**Short link: https://tinyurl.com/madisonyang-cv**
+
+<img src="docs/madisonyang-cv-qr.svg" alt="QR code linking to the CV site" width="160" />
+
 [![Preview of the CV page](docs/preview.png)](https://madiyang.github.io/cv/)
 
 A single-page CV built with React, Tailwind CSS and Vite (generated with Figma Make). The page can be exported to Word or printed / saved as PDF using the buttons at the top right.
