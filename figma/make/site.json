@@ -1,0 +1,11 @@
+{
+  "title": "Madison Yang",
+  "description": "Create polished, professional CVs with guided tools that help job seekers showcase their experience, skills, and qualifications.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
